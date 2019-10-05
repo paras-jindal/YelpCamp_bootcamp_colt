@@ -1,0 +1,22 @@
+.img-thumbnail img{
+	width: 100%
+}
+
+.img-thumbnail{
+	padding: 0;
+}
+
+.img-thumbnail	.caption{
+	padding:9px;
+}
+
+#delete-button{
+	display:inline;
+}
+
+.btn-xs{
+	padding: .25rem .4rem;
+  font-size: .875rem;
+  line-height: 1;
+  border-radius: .2rem;
+}
